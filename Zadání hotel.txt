@@ -1,0 +1,5 @@
+Navrhněte databázový systém Hotel, který obsahuje zakladní informace u službách a evidencích.
+Hotel musí obsahovat restauraci, pokoje, zaměstnance a sklad.
+Dále by měl mít evidenci všech dostupných zásob,které  mají svůj druh, doplňovače a svou spotřebu.Mělo by se dát zjistit vše o spotřebovanách zásobách a provedených objednávkách v hotelu.
+Restaurace bude mít rezervační systém na stoly, objednávky a pokrmy, o kterých pujdou zjistit informace z menu (například recept,alergeny a druh pokrmu).
+Cílem databáze je, aby se zní dalo bezpečně získát informace o hostech, co si z nich kdo objednal, evidenci pracovníků v kuchyňi, obsluhu, skladníků a recepční.
